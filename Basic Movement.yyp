@@ -6,7 +6,9 @@
     {"id":{"name":"obj_glob","path":"objects/obj_glob/obj_glob.yy",},"order":0,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":1,},
     {"id":{"name":"spr_glob","path":"sprites/spr_glob/spr_glob.yy",},"order":0,},
+    {"id":{"name":"obj_cake","path":"objects/obj_cake/obj_cake.yy",},"order":2,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
+    {"id":{"name":"spr_cake","path":"sprites/spr_cake/spr_cake.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
